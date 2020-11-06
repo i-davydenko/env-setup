@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sudo make install -C ~/dwm 
-sudo make install -C ~.st 
+sudo make install -C ./st 
 sudo make install -C ~/"dmenu-4.9"
 sudo make install -C ~/slstatus
 
