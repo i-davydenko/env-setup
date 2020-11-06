@@ -1,3 +1,6 @@
 [submodule "st"]
 	path = st
 	url = ./st
+[submodule "dmenu"]
+	path = dmenu
+	url = ./dmenu/
