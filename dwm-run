@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# some alfa stuff 
+xcompmgr &
+
+#wallpaper
+~/.fehbg &
+
+# status bar
+slstatus & 
+
+# DWM
+dwm
+

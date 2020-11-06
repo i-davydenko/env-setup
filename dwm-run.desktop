@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=dwm-cust
+GenericName=Window Manager
+Comment=Dynamic window manager for X
+Exec=dwm-run
+Terminal=false
+TryExec=dwm
+
+[Window Manager]
+SessionManaged=true
