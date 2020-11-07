@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo make install -C ~/dwm 
+sudo make install -C ./dwm 
 sudo make install -C ./st 
 sudo make install -C ./dmenu
 sudo make install -C ~/slstatus

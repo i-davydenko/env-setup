@@ -4,3 +4,6 @@
 [submodule "dmenu"]
 	path = dmenu
 	url = ./dmenu/
+[submodule "dwm"]
+	path = dwm
+	url = ./dwm
