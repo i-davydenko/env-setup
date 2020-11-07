@@ -7,3 +7,6 @@
 [submodule "dwm"]
 	path = dwm
 	url = ./dwm
+[submodule "slstatus"]
+	path = slstatus
+	url = ./slstatus/
