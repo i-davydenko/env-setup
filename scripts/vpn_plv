@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo openfortivpn -c ~/.config/plv_forti_config.private
