@@ -1,0 +1,5 @@
+### config file for openfortivpn, see man openfortivpn(1) ###
+
+host = some.host.uri
+port = ####
+username = usrname
