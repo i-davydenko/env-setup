@@ -7,3 +7,5 @@ passmenu
 vim-default-editor                                             #
 openfortivpn                                                   #  vpn forticlient
 brightnessctl                                                  #  керування яскравістю 
+pamixer                                                        #  керування гучністю
+
