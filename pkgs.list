@@ -1,11 +1,18 @@
 xcompmgr-1.1.8-1.fc32.x86_64.rpm
 feh                                                            #  переглядач зобоажень + заставка
 xbacklight
+
 vim
+vim-default-editor                                             #
+
 passpack                                                       #  менеджер паролів + dmenu інтеграція
 passmenu                                                        
-vim-default-editor                                             #
+
 openfortivpn                                                   #  vpn forticlient
+
 brightnessctl                                                  #  керування яскравістю 
 pamixer                                                        #  керування гучністю
 
+transmission-cli
+transmission-daemon                                            #  торрент клієнт
+transmission-common

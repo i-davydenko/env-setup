@@ -18,3 +18,5 @@ sudo ln -sf ~/Telegram/Telegram /usr/bin/tg
 sudo ln -sf ~/chromium-latest-linux/run.sh /usr/bin/chrm
 sudo ln -sf ~/downloads/Discord/Discord /usr/bin/Discord
 
+
+sudo systemctl daemon-reload

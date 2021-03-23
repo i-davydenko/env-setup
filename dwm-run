@@ -3,11 +3,14 @@
 # some alfa stuff 
 xcompmgr &
 
-#wallpaper
+# wallpaper
 ~/.fehbg &
 
 # status bar
 slstatus & 
+
+# bittorrent daemon
+transmission-daemon
 
 # DWM
 dwm
