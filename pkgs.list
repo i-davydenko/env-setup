@@ -16,3 +16,6 @@ pamixer                                                        #  керуван
 transmission-cli
 transmission-daemon                                            #  торрент клієнт
 transmission-common
+
+zathura                                                        #  pdf,djvu 
+zathura-plugins-all
